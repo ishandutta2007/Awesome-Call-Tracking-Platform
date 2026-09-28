@@ -64,7 +64,7 @@ Below is a curated comparison of top commercial call tracking and conversation i
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are key open-source telephony frameworks, programmable voice engines, and CDR analytics stacks used to build custom call tracking platforms, ranked by GitHub Star count (descending).
+Below are key open-source telephony frameworks, programmable voice engines, and CDR analytics stacks used to build custom call tracking platforms, ranked by GitHub Stars_Count (descending).
 
 * **[LiveKit](https://github.com/livekit/livekit)** <a href="https://github.com/livekit/livekit/stargazers"><img src="https://img.shields.io/github/stars/livekit/livekit?style=social&color=white" alt="LiveKit Stars"/></a>  
   High-performance open-source WebRTC & SIP voice/video infrastructure for real-time AI speech sessions and call processing. ⚡
@@ -111,7 +111,7 @@ Contributions are welcome! 🎉 To contribute:
 
 1. Fork this repository 🍴
 2. Add or update entries in `README.md` (keep descriptions objective and informative) ✍️
-3. Ensure links and star badges are accurate 🔗
+3. Ensure links and Stars_Badges are accurate 🔗
 4. Open a Pull Request (PR) with a brief summary 🚀
 
 ---
